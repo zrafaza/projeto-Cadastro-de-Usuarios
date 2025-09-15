@@ -4,7 +4,7 @@ Fiz um sistema de Cadastro de usuarios simples, com ideia de cadastrar seu usuar
 
 ## 🚀 Como rodar
 ```bash
-git clone https://github.com/seu-usuario/meu-projeto.git
+git clone https://github.com/zrafaza/projetos-Cadastro-de-Usuarios
 
 cd cadastro-de-usuarios
 
