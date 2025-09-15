@@ -1,0 +1,17 @@
+# Meu Projeto 🚀
+
+Fiz um sistema de Cadastro de usuarios simples, com ideia de cadastrar seu usuario.
+
+## 🚀 Como rodar
+```bash
+git clone https://github.com/seu-usuario/meu-projeto.git
+
+cd cadastro-de-usuarios
+
+    cd cadastro
+        node --watch server.js
+            "[]" = server rodando!
+
+    cd api
+        npm run dev
+            "http://localhost:5173/" = front rodando!
